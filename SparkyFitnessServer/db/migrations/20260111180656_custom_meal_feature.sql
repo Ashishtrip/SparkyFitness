@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS "public"."meal_types" (
     user_id uuid REFERENCES auth.users(id) ON DELETE CASCADE,
     sort_order int DEFAULT 0,
     created_at timestamp with time zone DEFAULT now(),
-    CONSTRAINT "meal_types_name_user_unique" UNIQUE NULLS NOT DISTINCT ("name", "user_id")
+    CONSTRAINT "meal_types_name_user_unique" UNIQUE ("name", "user_id")
 );
 
 -- =========================================================
