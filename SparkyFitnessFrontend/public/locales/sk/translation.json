@@ -9,7 +9,7 @@
     "admin": "Administrácia"
   },
   "aboutDialog": {
-    "title": "O SparkyFitness",
+    "title": "O Sparky",
     "applicationVersion": "Verzia aplikácie: ",
     "discordLink": "discord.gg/vcnMT5cPEA",
     "githubRepo": "GitHub úložisko",
@@ -24,7 +24,7 @@
     "openFoodFactsApi": "Open Food Facts API",
     "gotIt": "Rozumiem",
     "close": "Zatvoriť",
-    "description1": "SparkyFitness: Vytvorené pre rodiny. Poháňané AI. Sledujte jedlo, kondíciu, vodu a zdravie – spoločne.",
+    "description1": "Sparky: Vytvorené pre rodiny. Poháňané AI. Sledujte jedlo, kondíciu, vodu a zdravie – spoločne.",
     "joinDiscord": "Pridajte sa k našej komunite na Discorde: ",
     "moreInfoVisit": "Viac informácií nájdete na "
   },

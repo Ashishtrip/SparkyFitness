@@ -36,7 +36,7 @@ export const requiresApiKey = (serviceType: string | undefined): boolean =>
   serviceType !== 'custom';
 
 // The first entry in each list is the recommended default — the cheapest model
-// that handles SparkyFitness's tasks well. Keep that ordering when refreshing,
+// that handles Sparky's tasks well. Keep that ordering when refreshing,
 // since ServiceForm surfaces modelOptions[0] as the recommendation.
 export const getModelOptions = (serviceType: string): string[] => {
   switch (serviceType) {

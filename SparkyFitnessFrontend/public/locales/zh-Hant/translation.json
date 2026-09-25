@@ -278,8 +278,8 @@
     "showNetCarbsHint": "開啟後，碳水化合物總覽會顯示扣除膳食纖維後的淨碳水數據。"
   },
   "aboutDialog": {
-    "title": "關於 SparkyFitness",
-    "description1": "SparkyFitness：為家庭使用打造、由 AI 技術驅動，可一同紀錄飲食、運動、飲水與各項健康數據。",
+    "title": "關於 Sparky",
+    "description1": "Sparky：為家庭使用打造、由 AI 技術驅動，可一同紀錄飲食、運動、飲水與各項健康數據。",
     "applicationVersion": "程式版本： ",
     "joinDiscord": "前往 Discord 社群交流： ",
     "discordLink": "discord.gg/vcnMT5cPEA",

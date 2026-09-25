@@ -141,7 +141,7 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({
       if (user !== null && !isSticky) {
         // Better Auth's own session fetch bypasses apiCall, so an upstream
         // auth gateway (e.g. Cloudflare Access) intercepting that request can
-        // resolve session to null without SparkyFitness ever seeing it. Before
+        // resolve session to null without Sparky ever seeing it. Before
         // treating this as a real logout, confirm with a same-origin probe
         // through apiCall, which knows how to recognize gateway interception
         // (see isGatewayInterceptedResponse in src/api/api.ts) and will

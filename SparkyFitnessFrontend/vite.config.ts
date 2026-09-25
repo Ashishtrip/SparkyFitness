@@ -61,8 +61,8 @@ export default defineConfig(({ mode }) => {
         VitePWA({
           registerType: 'autoUpdate',
           manifest: {
-            name: 'SparkyFitness',
-            short_name: 'SparkyFitness',
+            name: 'Sparky',
+            short_name: 'Sparky',
             description: 'Your personal fitness companion',
             theme_color: '#000000',
             icons: [

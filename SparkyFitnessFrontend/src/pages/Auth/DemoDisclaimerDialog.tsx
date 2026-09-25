@@ -49,7 +49,7 @@ export const DemoDisclaimerDialog: React.FC<DemoDisclaimerDialogProps> = ({
             </span>
           </div>
           <CardTitle className="text-xl font-bold">
-            {t('auth.demoWelcomeTitle', 'Welcome to SparkyFitness Demo')}
+            {t('auth.demoWelcomeTitle', 'Welcome to Sparky Demo')}
           </CardTitle>
           <CardDescription>
             {t(

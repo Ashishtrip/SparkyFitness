@@ -421,12 +421,12 @@ const Auth = () => {
             <CardHeader className="text-center">
               <div className="flex items-center justify-center mb-4">
                 <img
-                  src="/images/SparkyFitness.webp"
-                  alt="SparkyFitness Logo"
+                  src="/images/Sparky.webp"
+                  alt="Sparky Logo"
                   className="h-10 w-10 mr-2"
                 />
                 <CardTitle className="text-2xl font-bold text-gray-900 dark:text-gray-300">
-                  SparkyFitness
+                  Sparky
                 </CardTitle>
               </div>
               <CardDescription>

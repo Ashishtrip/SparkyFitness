@@ -14,7 +14,7 @@
     "wellness": "Bienestar"
   },
   "aboutDialog": {
-    "title": "Sobre SparkyFitness",
+    "title": "Sobre Sparky",
     "applicationVersion": "Versión de la aplicación: ",
     "joinDiscord": "Únete a nuestra comunidad en Discord: ",
     "moreInfoVisit": "Para más información, visita el ",
@@ -27,7 +27,7 @@
     "close": "Cerrar",
     "discordLink": "discord.gg/vcnMT5cPEA",
     "gotIt": "Entendido",
-    "description1": "SparkyFitness: Diseñado para familias. Potenciado por IA. Controla la alimentación, el ejercicio, el agua y la salud, juntos.",
+    "description1": "Sparky: Diseñado para familias. Potenciado por IA. Controla la alimentación, el ejercicio, el agua y la salud, juntos.",
     "wgerApi": "API Wger (datos de ejercicios)",
     "foodDataApis": "APIs de datos de alimentos:",
     "fatsecretApi": "API FatSecret",
@@ -144,7 +144,7 @@
       "profileIncompleteDesc": "Faltan el peso, la altura y la edad. Los objetivos de calorías podrían ser inexactos.",
       "profileIncompleteTitle": "Perfil incompleto",
       "projectedBurn": "Proyectado TDEE",
-      "sparkyfitnessBurned": "Quemado en SparkyFitness",
+      "sparkyfitnessBurned": "Quemado en Sparky",
       "summaryUnavailableDesc": "No se pudo cargar el resumen diario de energía. Intenta recargar la página.",
       "summaryUnavailableTitle": "Resumen diario no disponible",
       "updateProfile": "Actualizar perfil",
@@ -763,7 +763,7 @@
         "clientSecretLabel": "Secreto de cliente de YAZIO",
         "clientSecretPlaceholder": "Introduce el secreto de cliente de YAZIO",
         "allFieldsRequired": "Todos los campos (correo electrónico/usuario, contraseña, ID de cliente y secreto de cliente) son obligatorios.",
-        "languageSupportHelp": "Las búsquedas de alimentos de YAZIO se adaptan automáticamente a tu idioma activo en SparkyFitness (compatible con inglés, alemán, francés, ruso, español, italiano, neerlandés, polaco, portugués, danés, finés, sueco, checo, húngaro, griego, noruego, turco, chino, japonés y coreano). Para otros idiomas, se utilizan por defecto los parámetros de la base de datos internacional estándar."
+        "languageSupportHelp": "Las búsquedas de alimentos de YAZIO se adaptan automáticamente a tu idioma activo en Sparky (compatible con inglés, alemán, francés, ruso, español, italiano, neerlandés, polaco, portugués, danés, finés, sueco, checo, húngaro, griego, noruego, turco, chino, japonés y coreano). Para otros idiomas, se utilizan por defecto los parámetros de la base de datos internacional estándar."
       },
       "oauthDashboards": {
         "fallback": "panel para desarrolladores del proveedor",
@@ -4811,7 +4811,7 @@
     "last365Days": "Últimos 365 días",
     "last7Days": "Últimos 7 días",
     "last90Days": "Últimos 90 días",
-    "polarWarning": "Nota: Polar solo permite sincronizar los datos registrados después de haber conectado tu cuenta a SparkyFitness.",
+    "polarWarning": "Nota: Polar solo permite sincronizar los datos registrados después de haber conectado tu cuenta a Sparky.",
     "startDate": "Fecha de inicio",
     "syncNow": "Iniciar sincronización",
     "timeoutWarning": "Para rangos de fechas amplios, el navegador puede agotar el tiempo de espera, pero el servidor continuará la sincronización en segundo plano.",

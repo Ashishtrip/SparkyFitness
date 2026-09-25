@@ -32,7 +32,7 @@ export const gatewayReloadRuntime = {
 // Detects when a reverse-proxy auth gateway (e.g. Cloudflare Access) has
 // intercepted an internal API call and returned its own login/redirect page
 // instead of letting the request reach the backend. Such responses are not a
-// real "logged out" signal from SparkyFitness and must not be treated as one.
+// real "logged out" signal from Sparky and must not be treated as one.
 function isGatewayInterceptedResponse(response: Response): boolean {
   if (response.type === 'opaqueredirect') {
     return true;

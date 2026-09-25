@@ -14,8 +14,8 @@
     "wellness": "Welzijn"
   },
   "aboutDialog": {
-    "title": "Over SparkyFitness",
-    "description1": "SparkyFitness: speciaal ontwikkeld voor gezinnen. Aangedreven door AI. Volg samen uw voeding, fitness, water en gezondheid.",
+    "title": "Over Sparky",
+    "description1": "Sparky: speciaal ontwikkeld voor gezinnen. Aangedreven door AI. Volg samen uw voeding, fitness, water en gezondheid.",
     "applicationVersion": "Applicatie versie: ",
     "joinDiscord": "Voeg onze community op Discord toe: ",
     "moreInfoVisit": "Voor meer informatie, bezoek de ",
@@ -144,7 +144,7 @@
       "profileIncompleteDesc": "Gewicht, lengte en leeftijd ontbreken. De caloriedoelstellingen zijn mogelijk onnauwkeurig.",
       "profileIncompleteTitle": "Profiel onvolledig",
       "projectedBurn": "Verwacht (hele dag)",
-      "sparkyfitnessBurned": "SparkyFitness verbruikt",
+      "sparkyfitnessBurned": "Sparky verbruikt",
       "summaryUnavailableDesc": "Uw dagelijkse energieoverzicht konden niet worden geladen. Probeer de pagina te vernieuwen.",
       "summaryUnavailableTitle": "Dagelijks overzicht niet beschikbaar",
       "updateProfile": "Profiel bijwerken",
@@ -1248,7 +1248,7 @@
         "clientSecretLabel": "YAZIO client-secret",
         "clientSecretPlaceholder": "Vul YAZIO client-secret in",
         "allFieldsRequired": "Alle velden (e-mailadres/gebruikersnaam, wachtwoord, client-ID en client-secret) zijn verplicht.",
-        "languageSupportHelp": "De zoekresultaten van YAZIO worden automatisch aangepast aan de taal die u in SparkyFitness heeft ingesteld (ondersteunde talen: Engels, Duits, Frans, Russisch, Spaans, Italiaans, Nederlands, Pools, Portugees, Deens, Fins, Zweeds, Tsjechisch, Hongaars, Grieks, Noors, Turks, Chinees, Japans en Koreaans). Voor andere talen worden de standaard internationale databaseparameters gebruikt."
+        "languageSupportHelp": "De zoekresultaten van YAZIO worden automatisch aangepast aan de taal die u in Sparky heeft ingesteld (ondersteunde talen: Engels, Duits, Frans, Russisch, Spaans, Italiaans, Nederlands, Pools, Portugees, Deens, Fins, Zweeds, Tsjechisch, Hongaars, Grieks, Noors, Turks, Chinees, Japans en Koreaans). Voor andere talen worden de standaard internationale databaseparameters gebruikt."
       },
       "oauthDashboards": {
         "fallback": "Dashboard ontwikkelaar van providers",
@@ -1652,7 +1652,7 @@
       "percentageGoalDescription": "Uw krijgt slechts een vast percentage van uw tijdens de training verbrande calorieën terug. Bijvoorbeeld: 50% zorgt voor een veiligheidsmarge om te voorkomen dat u te veel eet omdat u de calorieverbranding te hoog hebt ingeschat.",
       "percentageLabel": "Terugverdienpercentage:",
       "tdeeGoal": "Volg apparaat",
-      "tdeeGoalDescription": "Net als MyFitnessPal met de Apple Watch. SparkyFitness berekent uw totale energieverbruik over de hele dag door de huidige gegevens van uw apparaat door te trekken tot middernacht. De aanpassing = prognose − TDEE.",
+      "tdeeGoalDescription": "Net als MyFitnessPal met de Apple Watch. Sparky berekent uw totale energieverbruik over de hele dag door de huidige gegevens van uw apparaat door te trekken tot middernacht. De aanpassing = prognose − TDEE.",
       "title": "Aanpassing van het dagelijkse caloriedoel",
       "tdeeActivityHint": "Het activiteitsniveau wordt alleen gebruikt door de BMR + actieve calorieën-reserveoptie wanneer er geen totaalcijfer van het apparaat beschikbaar is."
     },
@@ -4692,7 +4692,7 @@
     "last365Days": "Laatste jaar",
     "last7Days": "Laatste week",
     "last90Days": "Laatste 90 dagen",
-    "polarWarning": "Opmerking: Polar staat alleen het synchroniseren toe van gegevens die zijn geregistreerd nadat uw het account aan SparkyFitness hebt gekoppeld.",
+    "polarWarning": "Opmerking: Polar staat alleen het synchroniseren toe van gegevens die zijn geregistreerd nadat uw het account aan Sparky hebt gekoppeld.",
     "startDate": "Startdatum",
     "syncNow": "Start synchonisatie",
     "timeoutWarning": "Bij grote datumbereiken kan de browser een time-out geven, maar de server gaat op de achtergrond door met synchroniseren.",

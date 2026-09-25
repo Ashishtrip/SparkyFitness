@@ -38,13 +38,13 @@ const formatGithubReleaseNotes = (notes: string): string => {
 
   // 1. Convert GitHub pull request URLs to [#PR_NUMBER](URL)
   formatted = formatted.replace(
-    /https:\/\/github\.com\/CodeWithCJ\/SparkyFitness\/pull\/(\d+)/g,
+    /https:\/\/github\.com\/CodeWithCJ\/Sparky\/pull\/(\d+)/g,
     '[#$1](https://github.com/CodeWithCJ/SparkyFitness/pull/$1)'
   );
 
   // 2. Convert GitHub commit URLs to [commit_hash](URL)
   formatted = formatted.replace(
-    /https:\/\/github\.com\/CodeWithCJ\/SparkyFitness\/commit\/([a-f0-9]{7,40})/g,
+    /https:\/\/github\.com\/CodeWithCJ\/Sparky\/commit\/([a-f0-9]{7,40})/g,
     (match, hash) => `[\`${hash.slice(0, 7)}\`](${match})`
   );
 
@@ -187,7 +187,7 @@ const NewReleaseDialog: React.FC<NewReleaseDialogProps> = ({
             New Version Available: {releaseInfo.version}
           </AlertDialogTitle>
           <AlertDialogDescription className="flex flex-col gap-2 mt-2">
-            <p>A new version of SparkyFitness is available!</p>
+            <p>A new version of Sparky is available!</p>
             <p className="text-xs text-muted-foreground">
               Published:{' '}
               {new Date(releaseInfo.publishedAt).toLocaleDateString()}

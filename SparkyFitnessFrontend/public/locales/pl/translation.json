@@ -14,8 +14,8 @@
     "wellness": "Samopoczucie"
   },
   "aboutDialog": {
-    "title": "O SparkyFitness",
-    "description1": "SparkyFitness: Stworzone dla rodzin. Napędzane przez AI. Śledź jedzenie, treningi, wodę i zdrowie — wspólnie.",
+    "title": "O Sparky",
+    "description1": "Sparky: Stworzone dla rodzin. Napędzane przez AI. Śledź jedzenie, treningi, wodę i zdrowie — wspólnie.",
     "applicationVersion": "Wersja aplikacji: ",
     "joinDiscord": "Dołącz do naszej społeczności na Discordzie: ",
     "discordLink": "discord.gg/vcnMT5cPEA",
@@ -144,7 +144,7 @@
       "profileIncompleteDesc": "Brakuje masy ciała, wzrostu i wieku. Cele kaloryczne mogą być niedokładne.",
       "profileIncompleteTitle": "Niekompletny profil",
       "projectedBurn": "Prognoza (cały dzień)",
-      "sparkyfitnessBurned": "Spalone kalorie według SparkyFitness",
+      "sparkyfitnessBurned": "Spalone kalorie według Sparky",
       "summaryUnavailableDesc": "Nie udało się wczytać dziennego podsumowania energii. Spróbuj odświeżyć stronę.",
       "summaryUnavailableTitle": "Dzienne podsumowanie niedostępne",
       "updateProfile": "Zaktualizuj profil",
@@ -1293,7 +1293,7 @@
         "clientSecretLabel": "Sekret klienta YAZIO",
         "clientSecretPlaceholder": "Wprowadź sekret klienta YAZIO",
         "allFieldsRequired": "Wszystkie pola (e-mail/nazwa użytkownika, hasło, identyfikator klienta i sekret klienta) są wymagane.",
-        "languageSupportHelp": "Wyszukiwanie żywności w YAZIO automatycznie dostosowuje się do aktywnego języka w SparkyFitness (obsługiwane są: angielski, niemiecki, francuski, rosyjski, hiszpański, włoski, niderlandzki, polski, portugalski, duński, fiński, szwedzki, czeski, węgierski, grecki, norweski, turecki, chiński, japoński i koreański). W przypadku innych języków używane są standardowe międzynarodowe parametry bazy danych."
+        "languageSupportHelp": "Wyszukiwanie żywności w YAZIO automatycznie dostosowuje się do aktywnego języka w Sparky (obsługiwane są: angielski, niemiecki, francuski, rosyjski, hiszpański, włoski, niderlandzki, polski, portugalski, duński, fiński, szwedzki, czeski, węgierski, grecki, norweski, turecki, chiński, japoński i koreański). W przypadku innych języków używane są standardowe międzynarodowe parametry bazy danych."
       }
     },
     "aiService": {
@@ -1688,7 +1688,7 @@
       "percentageGoalDescription": "Odzyskuj tylko określony procent kalorii spalonych podczas ćwiczeń. Na przykład 50% tworzy margines bezpieczeństwa, aby uniknąć przejadania się z powodu zawyżonego szacowania spalonych kalorii.",
       "percentageLabel": "Procent odzyskiwanych kalorii:",
       "tdeeGoal": "Prognoza z urządzenia",
-      "tdeeGoalDescription": "Podobnie jak MyFitnessPal z Apple Watchem. SparkyFitness prognozuje spalanie z całego dnia, ekstrapolując bieżące dane z urządzenia do północy. Korekta = prognoza − TDEE.",
+      "tdeeGoalDescription": "Podobnie jak MyFitnessPal z Apple Watchem. Sparky prognozuje spalanie z całego dnia, ekstrapolując bieżące dane z urządzenia do północy. Korekta = prognoza − TDEE.",
       "title": "Korekta dziennego celu kalorycznego"
     },
     "dataImport": {
@@ -4508,7 +4508,7 @@
     "last365Days": "Ostatnie 365 dni",
     "last7Days": "Ostatnie 7 dni",
     "last90Days": "Ostatnie 90 dni",
-    "polarWarning": "Uwaga: Polar umożliwia synchronizowanie wyłącznie danych zarejestrowanych po połączeniu konta z SparkyFitness.",
+    "polarWarning": "Uwaga: Polar umożliwia synchronizowanie wyłącznie danych zarejestrowanych po połączeniu konta z Sparky.",
     "syncNow": "Rozpocznij synchronizację",
     "title": "Synchronizuj dane {{provider}}",
     "last180Days": "Ostatnie 180 dni",

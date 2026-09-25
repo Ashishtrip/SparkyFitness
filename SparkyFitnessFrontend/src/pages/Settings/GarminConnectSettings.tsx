@@ -110,8 +110,8 @@ const GarminConnectSettings = ({
         }
       />
       <p className="text-sm text-muted-foreground">
-        Sparky Fitness does not store your Garmin email or password. They are
-        used only during login to obtain secure tokens.
+        Sparky does not store your Garmin email or password. They are used only
+        during login to obtain secure tokens.
       </p>
       {!garminStatus?.isLinked &&
         !showGarminMfaInput &&

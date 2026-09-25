@@ -14,8 +14,8 @@
     "wellness": "Labklājība"
   },
   "aboutDialog": {
-    "title": "Par SparkyFitness",
-    "description1": "SparkyFitness: Radīts ģimenēm. Darbojas, izmantojot MI. Kopā sekojiet līdzi ēdienam, fiziskajai aktivitātei, ūdens patēriņam un veselībai.",
+    "title": "Par Sparky",
+    "description1": "Sparky: Radīts ģimenēm. Darbojas, izmantojot MI. Kopā sekojiet līdzi ēdienam, fiziskajai aktivitātei, ūdens patēriņam un veselībai.",
     "applicationVersion": "Lietotnes versija: ",
     "joinDiscord": "Pievienojieties mūsu kopienai Discord platformā: ",
     "discordLink": "discord.gg/vcnMT5cPEA",
@@ -144,7 +144,7 @@
       "profileIncompleteDesc": "Trūkst svara, auguma un vecuma. Kaloriju mērķi var būt neprecīzi.",
       "profileIncompleteTitle": "Profils nav pabeigts",
       "projectedBurn": "Prognozēts (visa diena)",
-      "sparkyfitnessBurned": "SparkyFitness sadedzināts",
+      "sparkyfitnessBurned": "Sparky sadedzināts",
       "summaryUnavailableDesc": "Neizdevās ielādēt jūsu dienas enerģijas kopsavilkumu. Mēģiniet atsvaidzināt lapu.",
       "summaryUnavailableTitle": "Dienas kopsavilkums nav pieejams",
       "updateProfile": "Atjaunināt profilu",
@@ -755,7 +755,7 @@
         "clientSecretLabel": "YAZIO klienta noslēpums",
         "clientSecretPlaceholder": "Ievadiet YAZIO klienta noslēpumu",
         "allFieldsRequired": "Visi lauki (e-pasts/lietotājvārds, parole, klienta ID un klienta noslēpums) ir obligāti.",
-        "languageSupportHelp": "YAZIO pārtikas meklēšana automātiski pielāgojas jūsu aktīvajai valodas preferencesi SparkyFitness (atbalsta angļu, vācu, franču, krievu, spāņu, itāļu, holandiešu, poļu, portugāļu, dāņu, somu, zviedru, čehu, ungāru, grieķu, norvēģu, turku, ķīniešu, japāņu un korejiešu valodu). Citām valodām tiek izmantoti standarta starptautiskās datubāzes parametri."
+        "languageSupportHelp": "YAZIO pārtikas meklēšana automātiski pielāgojas jūsu aktīvajai valodas preferencesi Sparky (atbalsta angļu, vācu, franču, krievu, spāņu, itāļu, holandiešu, poļu, portugāļu, dāņu, somu, zviedru, čehu, ungāru, grieķu, norvēģu, turku, ķīniešu, japāņu un korejiešu valodu). Citām valodām tiek izmantoti standarta starptautiskās datubāzes parametri."
       }
     },
     "aiService": {
@@ -1150,7 +1150,7 @@
       "percentageGoalDescription": "Atgūstiet tikai noteiktu procentuālo daļu no savām vingrojuma kalorijām. Piemēram, 50% izveido drošības buferi, lai izvairītos no pārēšanās no pārvērtētajām nodedzinātajām kalorijām.",
       "percentageLabel": "Atgūšanas procents:",
       "tdeeGoal": "Ierīces prognoze",
-      "tdeeGoalDescription": "Kā MyFitnessPal ar Apple Watch. SparkyFitness prognozē jūsu visas dienas sadedzināšanu, ekstrapolējot jūsu pašreizējos ierīces datus līdz pusnaktij. Korekcija = prognoze − TDEE.",
+      "tdeeGoalDescription": "Kā MyFitnessPal ar Apple Watch. Sparky prognozē jūsu visas dienas sadedzināšanu, ekstrapolējot jūsu pašreizējos ierīces datus līdz pusnaktij. Korekcija = prognoze − TDEE.",
       "title": "Ikdienas kaloriju mērķa korekcija"
     },
     "dataImport": {
@@ -4648,7 +4648,7 @@
     "last365Days": "Pēdējās 365 dienas",
     "last7Days": "Pēdējās 7 dienas",
     "last90Days": "Pēdējās 90 dienas",
-    "polarWarning": "Piezīme: Polar atļauj sinhronizēt tikai datus, kas reģistrēti pēc konta savienošanas ar SparkyFitness.",
+    "polarWarning": "Piezīme: Polar atļauj sinhronizēt tikai datus, kas reģistrēti pēc konta savienošanas ar Sparky.",
     "startDate": "Sākuma datums",
     "syncNow": "Sākt sinhronizāciju",
     "timeoutWarning": "Lieliem datumu diapazoniem pārlūkprogramma var pārtraukt gaidīšanu, bet serveris turpinās sinhronizāciju fonā.",

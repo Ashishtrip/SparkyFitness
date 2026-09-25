@@ -427,8 +427,8 @@
     }
   },
   "aboutDialog": {
-    "title": "À propos de SparkyFitness",
-    "description1": "SparkyFitness : conçu pour les familles. Propulsé par IA. Suivi de l'alimentation, du sport, de l'hydratation et de la santé — ensemble.",
+    "title": "À propos de Sparky",
+    "description1": "Sparky : conçu pour les familles. Propulsé par IA. Suivi de l'alimentation, du sport, de l'hydratation et de la santé — ensemble.",
     "applicationVersion": "Version de l'application : ",
     "joinDiscord": "Rejoins notre communauté sur Discord : ",
     "discordLink": "discord.gg/vcnMT5cPEA",
@@ -3367,7 +3367,7 @@
     "timeoutWarning": "Pour les plages de dates importantes, la session navigateur peut expirer, mais le serveur continuera la synchronisation en arrière-plan.",
     "syncNow": "Commencez la Synchronisation",
     "startDate": "Date de début",
-    "polarWarning": "Remarque : Polar autorise uniquement la synchronisation des données enregistrées après la connexion de votre compte à SparkyFitness.",
+    "polarWarning": "Remarque : Polar autorise uniquement la synchronisation des données enregistrées après la connexion de votre compte à Sparky.",
     "last90Days": "90 derniers jours",
     "last7Days": "7 derniers jours",
     "last365Days": "365 derniers jours",

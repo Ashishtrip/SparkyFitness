@@ -232,7 +232,7 @@ export const ProviderSpecificFields = ({
           <p className="text-sm text-muted-foreground col-span-2">
             Open Food Facts is a community-driven database that supports
             localization. Sparky automatically queries products in your active
-            language setting in SparkyFitness. For more information, visit the{' '}
+            language setting in Sparky. For more information, visit the{' '}
             <a
               href="https://world.openfoodfacts.org/"
               target="_blank"
@@ -393,7 +393,7 @@ export const ProviderSpecificFields = ({
           <p className="text-sm text-muted-foreground col-span-2">
             {t(
               'settings.foodExerciseDataProviders.yazio.languageSupportHelp',
-              'YAZIO food searches automatically adjust to your active language preference in SparkyFitness (supporting English, German, French, Russian, Spanish, Italian, Dutch, Polish, Portuguese, Danish, Finnish, Swedish, Czech, Hungarian, Greek, Norwegian, Turkish, Chinese, Japanese, and Korean). Other languages default to standard international database parameters.'
+              'YAZIO food searches automatically adjust to your active language preference in Sparky (supporting English, German, French, Russian, Spanish, Italian, Dutch, Polish, Portuguese, Danish, Finnish, Swedish, Czech, Hungarian, Greek, Norwegian, Turkish, Chinese, Japanese, and Korean). Other languages default to standard international database parameters.'
             )}
           </p>
         </>
@@ -507,8 +507,8 @@ export const ProviderSpecificFields = ({
           Note: Garmin Connect integration is tested with few metrics only.
           Ensure your Docker Compose is updated to include Garmin section.
           <br />
-          Sparky Fitness does not store your Garmin email or password. They are
-          used only during login to obtain secure tokens.
+          Sparky does not store your Garmin email or password. They are used
+          only during login to obtain secure tokens.
         </p>
       )}
 
@@ -591,9 +591,9 @@ export const ProviderSpecificFields = ({
             <strong>Italian (it)</strong>.
           </p>
           <p className="text-sm text-muted-foreground">
-            If your active language in SparkyFitness is not supported, the API
-            queries will default to English. For more details, see the official
-            portal at{' '}
+            If your active language in Sparky is not supported, the API queries
+            will default to English. For more details, see the official portal
+            at{' '}
             <a
               href="https://naehrwertdaten.ch/en/"
               target="_blank"

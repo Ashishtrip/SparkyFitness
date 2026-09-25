@@ -12,7 +12,7 @@ import {
   triggerChunkRecoveryReload,
 } from '@/utils/chunkRecovery';
 
-const UPDATE_TITLE = 'Updating SparkyFitness...';
+const UPDATE_TITLE = 'Updating Sparky...';
 const UPDATE_MESSAGE = 'Loading the latest version.';
 
 const useChunkRecoveryReload = (routeError: unknown) => {

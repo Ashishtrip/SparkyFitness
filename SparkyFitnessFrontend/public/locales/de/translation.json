@@ -134,7 +134,7 @@
         "clientSecretLabel": "YAZIO Client-Geheimnis",
         "clientSecretPlaceholder": "Geben Sie YAZIO Client-Geheimnis ein",
         "allFieldsRequired": "Alle Felder (E-Mail/Benutzername, Passwort, Client-ID und Client-Geheimnis) sind erforderlich.",
-        "languageSupportHelp": "Die YAZIO-Lebensmittelsuche passt sich automatisch an Ihre aktive Spracheinstellung in SparkyFitness an (unterstützt werden Englisch, Deutsch, Französisch, Russisch, Spanisch, Italienisch, Niederländisch, Polnisch, Portugiesisch, Dänisch, Finnisch, Schwedisch, Tschechisch, Ungarisch, Griechisch, Norwegisch, Türkisch, Chinesisch, Japanisch und Koreanisch). Für andere Sprachen werden die internationalen Standardparameter der Datenbank verwendet."
+        "languageSupportHelp": "Die YAZIO-Lebensmittelsuche passt sich automatisch an Ihre aktive Spracheinstellung in Sparky an (unterstützt werden Englisch, Deutsch, Französisch, Russisch, Spanisch, Italienisch, Niederländisch, Polnisch, Portugiesisch, Dänisch, Finnisch, Schwedisch, Tschechisch, Ungarisch, Griechisch, Norwegisch, Türkisch, Chinesisch, Japanisch und Koreanisch). Für andere Sprachen werden die internationalen Standardparameter der Datenbank verwendet."
       },
       "oauthDashboards": {
         "fallback": "Anbieter Entwickler Dashboard",
@@ -577,7 +577,7 @@
       "percentageGoalDescription": "Verdienen Sie nur einen festgelegten Prozentsatz Ihrer Trainingskalorien zurück. Beispielsweise schafft 50 % einen Sicherheitspuffer, um übermäßiges Essen aufgrund überschätzter Verbrennungen zu vermeiden.",
       "percentageLabel": "Earn-back-Prozentsatz:",
       "tdeeGoal": "Geräteprojektion",
-      "tdeeGoalDescription": "Wie MyFitnessPal mit Apple Watch. SparkyFitness projiziert Ihren ganztägigen Verbrauch, indem es Ihre aktuellen Gerätedaten auf Mitternacht hochrechnet. Die Anpassung = Projektion − TDEE.",
+      "tdeeGoalDescription": "Wie MyFitnessPal mit Apple Watch. Sparky projiziert Ihren ganztägigen Verbrauch, indem es Ihre aktuellen Gerätedaten auf Mitternacht hochrechnet. Die Anpassung = Projektion − TDEE.",
       "title": "Tägliche Kalorienzielanpassung"
     },
     "dataImport": {
@@ -683,8 +683,8 @@
     }
   },
   "aboutDialog": {
-    "title": "Über SparkyFitness",
-    "description1": "SparkyFitness: Für Familien entwickelt. Mit KI-Unterstützung. Erfasse gemeinsam Ernährung, Fitness, Wasseraufnahme und Gesundheit.",
+    "title": "Über Sparky",
+    "description1": "Sparky: Für Familien entwickelt. Mit KI-Unterstützung. Erfasse gemeinsam Ernährung, Fitness, Wasseraufnahme und Gesundheit.",
     "applicationVersion": "Anwendungsversion: ",
     "joinDiscord": "Tritt unserer Community auf Discord bei: ",
     "discordLink": "discord.gg/vcnMT5cPEA",
@@ -813,7 +813,7 @@
       "profileIncompleteDesc": "Gewicht, Größe und Alter fehlen. Kalorienziele sind möglicherweise ungenau.",
       "profileIncompleteTitle": "Profil unvollständig",
       "projectedBurn": "Geplant (ganzer Tag)",
-      "sparkyfitnessBurned": "SparkyFitness Verbrannt",
+      "sparkyfitnessBurned": "Sparky Verbrannt",
       "summaryUnavailableDesc": "Ihre tägliche Energiezusammenfassung konnte nicht geladen werden. Versuchen Sie, die Seite zu aktualisieren.",
       "summaryUnavailableTitle": "Tägliche Zusammenfassung nicht verfügbar",
       "updateProfile": "Profil aktualisieren",
@@ -4721,7 +4721,7 @@
     "last365Days": "Letzte 365 Tage",
     "last7Days": "Letzte 7 Tage",
     "last90Days": "Letzte 90 Tage",
-    "polarWarning": "Hinweis: Polar erlaubt nur die Synchronisierung von Daten, die aufgezeichnet wurden, nachdem Sie Ihr Konto mit verbunden haben SparkyFitness.",
+    "polarWarning": "Hinweis: Polar erlaubt nur die Synchronisierung von Daten, die aufgezeichnet wurden, nachdem Sie Ihr Konto mit verbunden haben Sparky.",
     "startDate": "Startdatum",
     "syncNow": "Synchronisierung starten",
     "timeoutWarning": "Bei großen Datumsbereichen kann es zu einer Zeitüberschreitung des Browsers kommen, aber der Server setzt die Synchronisierung im Hintergrund fort.",

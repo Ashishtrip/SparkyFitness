@@ -447,17 +447,17 @@ const MainLayout: React.FC<MainLayoutProps> = ({
         <div className="flex justify-between items-center mb-6">
           <div className="flex items-center gap-1">
             <img
-              src="/images/SparkyFitness.webp"
-              alt="SparkyFitness Logo"
+              src="/images/Sparky.webp"
+              alt="Sparky Logo"
               width={54}
               height={72}
             />
             <h1 className="text-xl sm:text-2xl font-bold text-foreground dark:text-slate-300">
-              SparkyFitness
+              Sparky
             </h1>
             {!isMobile && (
               <>
-                <GitHubStarCounter owner="CodeWithCJ" repo="SparkyFitness" />
+                <GitHubStarCounter owner="CodeWithCJ" repo="Sparky" />
                 <GitHubSponsorButton owner="CodeWithCJ" />
               </>
             )}
@@ -609,7 +609,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({
         {isMobile ? (
           <div className="flex flex-col items-center gap-2 mb-14">
             <div className="flex justify-center gap-2">
-              <GitHubStarCounter owner="CodeWithCJ" repo="SparkyFitness" />
+              <GitHubStarCounter owner="CodeWithCJ" repo="Sparky" />
               <GitHubSponsorButton owner="CodeWithCJ" />
             </div>
             <div className="flex items-center gap-2">
@@ -618,7 +618,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({
                 className="cursor-pointer underline bg-transparent border-0 p-0 text-inherit font-normal text-sm"
                 onClick={onShowAboutDialog}
               >
-                SparkyFitness v{appVersion?.version ?? ''}
+                Sparky v{appVersion?.version ?? ''}
               </button>
               <span>•</span>
               <button
@@ -637,7 +637,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({
               className="cursor-pointer underline bg-transparent border-0 p-0 text-inherit font-normal text-sm"
               onClick={onShowAboutDialog}
             >
-              SparkyFitness v{appVersion?.version ?? ''}
+              Sparky v{appVersion?.version ?? ''}
             </button>
             <span>•</span>
             <button
